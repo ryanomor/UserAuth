@@ -1,5 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  background-color: rgb(230, 94, 31);
+  color: azure;
+  font-family: Helvetica, Arial, sans-serif;
 }
